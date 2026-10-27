@@ -103,3 +103,9 @@ If Eletypes helps you or just makes you smile, consider supporting development:
 ## License
 
 [GPL-3.0](LICENSE) — free to use, modify, and redistribute. Derivative works must remain open source under the same license.
+
+## Launch with PicoRunner
+
+[![Launch on PicoRunner](https://picorunner.com/badges/launch.svg)](https://picorunner.com/launch/?repository=https%3A%2F%2Fgithub.com%2Fgamer-ai%2Feletypes-frontend)
+
+PicoRunner reviews the repository setup, builds the app, and runs its web interface locally. This configuration uses the standalone web app; browser data stays in the same browser profile and origin. Supabase leaderboard features require separate configuration and are not enabled by this manifest.
